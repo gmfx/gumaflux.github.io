@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Some Title</title>
-    <link>https://example.com/posts/</link>
+    <link>http://gumaflux.github.io/posts/</link>
     <description>Recent content in Posts on Some Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Nov 2018 07:36:05 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gumaflux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Helloworld</title>
-      <link>https://example.com/posts/helloworld/</link>
+      <link>http://gumaflux.github.io/posts/helloworld/</link>
       <pubDate>Mon, 05 Nov 2018 07:36:05 -0500</pubDate>
       
-      <guid>https://example.com/posts/helloworld/</guid>
+      <guid>http://gumaflux.github.io/posts/helloworld/</guid>
       <description>Test</description>
     </item>
     
