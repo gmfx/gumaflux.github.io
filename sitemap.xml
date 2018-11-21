@@ -3,29 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gumaflux.github.io/posts/helloworld/</loc>
-    <lastmod>2018-11-05T07:36:05-05:00</lastmod>
+    <loc>https://gmfx.io/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gumaflux.github.io/categories/</loc>
+    <loc>https://gmfx.io/netcore-generic-host-microservice-on-kube/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmfx.io/growing-netcore-microservices-on-kube/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmfx.io/replace-linked-server-with-api/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmfx.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gumaflux.github.io/posts/</loc>
-    <lastmod>2018-11-05T07:36:05-05:00</lastmod>
+    <loc>https://gmfx.io/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gumaflux.github.io/tags/</loc>
+    <loc>https://gmfx.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gumaflux.github.io/</loc>
-    <lastmod>2018-11-05T07:36:05-05:00</lastmod>
+    <loc>https://gmfx.io/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
